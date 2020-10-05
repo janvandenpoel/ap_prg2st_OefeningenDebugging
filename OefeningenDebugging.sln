@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VoorbeeldDebugging1", "Voor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VoorbeeldDebugging2", "VoorbeeldDebugging2\VoorbeeldDebugging2.csproj", "{B02FCF96-6048-4B91-B95F-BC810B3DD808}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoorbeeldDebugging3", "VoorbeeldDebugging3\VoorbeeldDebugging3.csproj", "{0976CA39-CD44-4AAD-A361-7CF8817BA78A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VoorbeeldDebugging3", "VoorbeeldDebugging3\VoorbeeldDebugging3.csproj", "{0976CA39-CD44-4AAD-A361-7CF8817BA78A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoorbeeldDebugging4", "VoorbeeldDebugging4\VoorbeeldDebugging4.csproj", "{A198E3A9-94EB-4E56-9A37-7E359AD9A9BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VoorbeeldDebugging4", "VoorbeeldDebugging4\VoorbeeldDebugging4.csproj", "{A198E3A9-94EB-4E56-9A37-7E359AD9A9BE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OefeningDebugging4", "OefeningDebugging4\OefeningDebugging4.csproj", "{E51A9D63-9ED0-4923-9FFF-D695467C0A56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{A198E3A9-94EB-4E56-9A37-7E359AD9A9BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A198E3A9-94EB-4E56-9A37-7E359AD9A9BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A198E3A9-94EB-4E56-9A37-7E359AD9A9BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E51A9D63-9ED0-4923-9FFF-D695467C0A56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E51A9D63-9ED0-4923-9FFF-D695467C0A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E51A9D63-9ED0-4923-9FFF-D695467C0A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E51A9D63-9ED0-4923-9FFF-D695467C0A56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

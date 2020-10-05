@@ -1,0 +1,13 @@
+D:\APHS\PRG2_STLAB\OefeningenDebugging\OefeningDebugging4\bin\Debug\netcoreapp3.1\OefeningDebugging4.exe
+D:\APHS\PRG2_STLAB\OefeningenDebugging\OefeningDebugging4\bin\Debug\netcoreapp3.1\OefeningDebugging4.deps.json
+D:\APHS\PRG2_STLAB\OefeningenDebugging\OefeningDebugging4\bin\Debug\netcoreapp3.1\OefeningDebugging4.runtimeconfig.json
+D:\APHS\PRG2_STLAB\OefeningenDebugging\OefeningDebugging4\bin\Debug\netcoreapp3.1\OefeningDebugging4.runtimeconfig.dev.json
+D:\APHS\PRG2_STLAB\OefeningenDebugging\OefeningDebugging4\bin\Debug\netcoreapp3.1\OefeningDebugging4.dll
+D:\APHS\PRG2_STLAB\OefeningenDebugging\OefeningDebugging4\bin\Debug\netcoreapp3.1\OefeningDebugging4.pdb
+D:\APHS\PRG2_STLAB\OefeningenDebugging\OefeningDebugging4\obj\Debug\netcoreapp3.1\OefeningDebugging4.csprojAssemblyReference.cache
+D:\APHS\PRG2_STLAB\OefeningenDebugging\OefeningDebugging4\obj\Debug\netcoreapp3.1\OefeningDebugging4.AssemblyInfoInputs.cache
+D:\APHS\PRG2_STLAB\OefeningenDebugging\OefeningDebugging4\obj\Debug\netcoreapp3.1\OefeningDebugging4.AssemblyInfo.cs
+D:\APHS\PRG2_STLAB\OefeningenDebugging\OefeningDebugging4\obj\Debug\netcoreapp3.1\OefeningDebugging4.csproj.CoreCompileInputs.cache
+D:\APHS\PRG2_STLAB\OefeningenDebugging\OefeningDebugging4\obj\Debug\netcoreapp3.1\OefeningDebugging4.dll
+D:\APHS\PRG2_STLAB\OefeningenDebugging\OefeningDebugging4\obj\Debug\netcoreapp3.1\OefeningDebugging4.pdb
+D:\APHS\PRG2_STLAB\OefeningenDebugging\OefeningDebugging4\obj\Debug\netcoreapp3.1\OefeningDebugging4.genruntimeconfig.cache
